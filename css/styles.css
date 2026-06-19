@@ -37,8 +37,8 @@ html {
 
 .logo-card {
   flex: 0 0 auto;
-  width: 180px;
-  height: 110px;
+  width: 220px;
+  height: 130px;
   background: white;
   border: none;
   display: flex;
@@ -48,8 +48,8 @@ html {
   box-sizing: border-box;
 }
 .logo-card img {
-  width: 140px;
-  height: 56px;
+  width: 180px;
+  height: 72px;
   object-fit: contain;
   display: block;
 }
